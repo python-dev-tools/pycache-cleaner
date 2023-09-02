@@ -16,14 +16,14 @@ It is based on windows batch scripting. so it is easily portable between windows
 
 ## Install
 
-1. Extract the folder in C. _(Example: "C:\PyCacheCleaner\Clean_Python_Caches.bat")_
-2. Double click `Add_Right_Click_Menu.reg` and click `Yes/OK` in the windows.
+1. Run `PyCacheCleaner.exe`
 
 ## Usage
 
-1. Now you can right-click on a folder and choose `Remove PyCaches`
-2. Or Either right-click on empty space inside the folder and choose `Remove PyCaches`
+1. Now you can right-click on a folder and choose `Remove PyCaches` Or Either right-click on empty space inside the folder and choose `Remove PyCaches`
+2. An CMD window will be poped up to show you the progress and list of files deleted.
 
 ## Uninstall
 
-1. Double click `Remove_Right_Click_Menu.reg` to stop showing `Remove PyCaches` in your right-click menu
+1. Go to Control Panel, Select uninstall programs under Programs section
+2. Select PyCacheCleaner from the list and click uninstall
