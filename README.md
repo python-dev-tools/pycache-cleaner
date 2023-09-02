@@ -16,7 +16,7 @@ This utility is built on Windows batch scripting, making it highly portable acro
 
 ## Installation
 
-1. Download the latest release from this repository.
+1. Download the [latest release](https://github.com/python-dev-tools/pycache-cleaner/releases/latest).
 2. Execute `PyCacheCleaner.exe` to begin using the tool.
 
 ## Usage
