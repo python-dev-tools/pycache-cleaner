@@ -8,22 +8,27 @@ Tired of those pesky ghostly pycache errors haunting your code? Don't worry, we'
 
 Bid farewell to spooky pycaches and embrace a cleaner, error-free Python coding experience. **Pycache-Cleaner** – because it's time to take control of your code!
 
-## How it works
+## How PyCacheCleaner Works
 
-PyCacheCleaner will recursively delete all .pyc files inside the folders. you can see the progress and files deleted in a cmd window that pops up.
+PyCacheCleaner is a tool designed to efficiently remove .pyc files within directories. It operates recursively, ensuring all relevant .pyc files are deleted. Progress and file deletion details are displayed in a command prompt window.
 
-It is based on windows batch scripting. so it is easily portable between windows platforms and ready to use directly.
+This utility is built on Windows batch scripting, making it highly portable across various Windows platforms and ready for immediate use.
 
-## Install
+## Installation
 
-1. Run `PyCacheCleaner.exe`
+1. Clone this repository or download it as a ZIP archive.
+2. Execute `PyCacheCleaner.exe` to begin using the tool.
 
 ## Usage
 
-1. Now you can right-click on a folder and choose `Remove PyCaches` Or Either right-click on empty space inside the folder and choose `Remove PyCaches`
-2. An CMD window will be poped up to show you the progress and list of files deleted.
+1. To remove .pyc files, right-click on a folder and select `Remove PyCaches`. Alternatively, right-click on an empty space within the folder and choose `Remove PyCaches`.
+2. A command prompt window will appear, displaying the progress and a list of deleted files.
 
-## Uninstall
+## Uninstallation
 
-1. Go to Control Panel, Select uninstall programs under Programs section
-2. Select PyCacheCleaner from the list and click uninstall
+1. Navigate to the Control Panel and select "Uninstall a program" under the Programs section.
+2. Locate PyCacheCleaner in the list and click "Uninstall" to remove it from your system.
+
+
+
+Keep your Python playground clean, and let PyCacheCleaner do the cleanup work! 💥
